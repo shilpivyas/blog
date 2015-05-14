@@ -1,7 +1,7 @@
 # blog
 This is a Wordpress Blogging Site
 
-Steps tp setup project on local machine
+Steps to setup project on local machine
 
 1) Download Latest Version of Netbeans
 
